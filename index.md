@@ -3,6 +3,7 @@ title: Jarin K Eva
 description: Jarin's Personal Website
 ---
 
+![My profile pic](/pics/my_linkedin_pic.jpg)
 
 This is some content for my page:
 - [Bar Plot Examples](/barplots/index.md)
