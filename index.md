@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Jarin K Eva
+description: Jarin's Personal Website
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
