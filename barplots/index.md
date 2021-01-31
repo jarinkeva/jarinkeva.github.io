@@ -4,5 +4,5 @@ description: Bar plots content
 ---
 
 Example of bar plots
-- [Multi Bar Plot(html)](M3Graphing.html)
-- [Multi Bar Plot(ipynb)](M3Graphing.ipynb)
+- [Sample Plot(html)](SampleNotebook.html)
+- [Sample Plot(ipynb)](SampleNotebook.ipynb)
