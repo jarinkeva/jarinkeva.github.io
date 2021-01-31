@@ -3,4 +3,6 @@ title: Bar Plots
 description: Bar plots content
 ---
 
-- This is an example of a multi bar plot
+Example of bar plots
+- [Multi Bar Plot(html)](M3Graphing.html)
+- [Multi Bar Plot(ipynb)](M3Graphing.ipynb)
